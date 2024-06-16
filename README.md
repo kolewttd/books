@@ -13,6 +13,10 @@ shells, one of them is the bash shell.
 
 Learn bash. 
 
+Bash is most powerfull when combined with many other 
+programs. Two of the particularly usefull ones are 
+sed and awk. 
+
 #### Python
 Learn python.
 
@@ -43,3 +47,12 @@ you may find some more clarity. But you will never
 get there completely.
 
 # Enjoj
+
+# Read the Documentation
+Experts read the documentation. It allows them to see
+the whole of some particular technology, which 
+enables them to choose appropriate tool for the task.
+Choosing an appropriate tool for the task is usually 
+trivial, but you can not do it, unless you know what is
+available. You get to know that by reading the 
+comprehensive documentation.
